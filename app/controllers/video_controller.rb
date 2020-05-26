@@ -10,6 +10,13 @@ class VideoController < ActionController::API
         end
     end
 
+    def delete
+        video = Video.find(params[:id])
+
+        render json: {id: video.id, link: video.link, playlist_id: video.playlist_id}
+        video.delete
+    end
+
     private
     def video_params
         params.require(:video).permit!
