@@ -12,7 +12,8 @@ class RoomController < ApplicationController
             name: room.name, 
             playlist: room.playlists,
             videos: videos,
-            description: room.description
+            description: room.description,
+            comments: room.comments
             }, except: [:created_at, :updated_at]
     end
 

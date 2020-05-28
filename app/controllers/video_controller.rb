@@ -10,11 +10,11 @@ class VideoController < ActionController::API
         end
     end
 
-    def delete
+    def destroy
         video = Video.find(params[:id])
 
-        render json: {id: video.id, link: video.link, playlist_id: video.playlist_id}
         video.delete
+        render json: {id: video.id, link: video.link, playlist_id: video.playlist_id}
     end
 
     private

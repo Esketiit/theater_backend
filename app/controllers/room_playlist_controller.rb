@@ -1,7 +1,6 @@
 class RoomPlaylistController < ActionController::API
     def create
         rp = RoomPlaylist.new(room_playlist_params)
-
         if rp.save
             render json: rp
         else
