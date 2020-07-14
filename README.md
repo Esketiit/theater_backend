@@ -11,8 +11,8 @@ Theater is a project that I whipped up in two weeks for my graduation from Flati
     * Run the following commands: 'rails db:start', 'rails db:migrate', 'rails s'
     * Theater's backend must be started before the frontend
 
-Contact me:
-[Linkedin] (https://www.linkedin.com/in/brian-desplantes-374439179/ "Linkedin")
+
+[LinkedIn](https://www.linkedin.com/in/brian-desplantes-374439179/)
 Email: briandesplantes@gmail.com
 
 Thanks for taking a look!
