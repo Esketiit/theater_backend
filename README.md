@@ -12,7 +12,7 @@ Theater is a project that I whipped up in two weeks for my graduation from Flati
     * Theater's backend must be started before the frontend
 
 Contact me:
-[Linkedin] (https://www.linkedin.com/in/brian-desplantes-374439179/)
+[Linkedin] (https://www.linkedin.com/in/brian-desplantes-374439179/ "Linkedin")
 Email: briandesplantes@gmail.com
 
 Thanks for taking a look!
