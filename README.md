@@ -1,6 +1,6 @@
 # README
 
-This is the repo for Theater's Rails/Postgres backend. If you are looking for the React frontend, <a href="https://github.com/Esketiit/theater_frontend">click here!</a>
+This is the repo for Theater's Rails/Postgres backend. If you are looking for the React frontend, [Named Link](http://www.google.fr/ "Named link title") 
 
 Theater is a project that I whipped up in two weeks for my graduation from Flatiron Academy! It's a platform for people to create, share and view playlists of videos quickly and easily. Theater is still a work in progress, so expect some changes and bugs to pop up as time goes on (help or tips of any kind is very much appeciated). 
 
